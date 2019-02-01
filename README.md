@@ -9,4 +9,4 @@
 如：include 'jiance.php';
 倒计时完毕后跳转主页并写cookie，第二次访问就不再显示。
 就直接把jiance.php文件放网站目录，然后去模版文件module.php添加下面的调用代码
-[Test小林]（http://blog.xiaolin.mcxhz.cn）
+[Test小林] http://blog.xiaolin.mcxhz.cn
