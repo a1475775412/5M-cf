@@ -1,0 +1,8 @@
+php代码
+<?php include 'jiance.php'; ?>
+
+
+
+我们的网址是：http://www.mcxhz.cn
+更多精彩内容资源请关注小林计算机
+我们的网址是：http://www.mcxhz.cn
